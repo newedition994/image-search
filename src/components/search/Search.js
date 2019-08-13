@@ -4,6 +4,7 @@ import TextField from 'material-ui/TextField'
 import SelectField from 'material-ui/SelectField'
 import MenuItem from 'material-ui/MenuItem'
 import axios from 'axios'
+import ImageResults from '../image-results/ImageResults'
 
 class Search extends Component {
 
